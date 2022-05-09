@@ -9,8 +9,19 @@
 
 ![Some Stats](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=KryptoBlack&layout=compact)  
 
-#### Fun fact ⚡ Left everything for cartoons 
+#### Reach me at 👇
+<a href="https://www.linkedin.com/in/t3-pat/">
+  <img align="left" alt="LindedIn" width="40px" src="images\linkedin-logo.png?raw=true" />
+</a>
 
+<a href="https://twitter.com/t3_pat">
+  <img align="left" alt="Twitter" width="35px" src="images\twitter-logo.png?raw=true" />
+</a>
+
+<br/>
+<br/>
+
+#### Fun fact ⚡ Left everything for cartoons 
 
 <!--
 **KryptoBlack/KryptoBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
