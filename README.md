@@ -1,4 +1,4 @@
-### Hi there, I'm Pratik
+### Hi, [I'm Pratik](https://kryptoblack.github.io)
 
 - 🔭 I’m currently working on [Kalamanch](https://github.com/Kalamanch/Kalamanch)
 - 🌱 I’m currently learning more about Docker and Technologies that surrounds it
@@ -13,7 +13,6 @@
 <a href="https://www.linkedin.com/in/t3-pat/">
   <img align="left" alt="LindedIn" width="40px" src="images\linkedin-logo.png?raw=true" />
 </a>
-
 <a href="https://twitter.com/t3_pat">
   <img align="left" alt="Twitter" width="35px" src="images\twitter-logo.png?raw=true" />
 </a>
