@@ -1,6 +1,5 @@
 ### Hi, [I'm Pratik](https://kryptoblack.github.io)
 
-- 🔭 I’m currently working on [Kalamanch](https://github.com/Kalamanch/Kalamanch)
 - 🌱 I’m currently learning more about Docker and Technologies that surrounds it
 - 👯 I’m looking to collaborate on any projects that can ✨ some interest in me
 - 🤔 I’m looking for help with Project Management
