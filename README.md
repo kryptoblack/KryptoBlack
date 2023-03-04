@@ -9,7 +9,7 @@
 ![Some Stats](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=KryptoBlack&layout=compact)  
 
 #### Reach me at 👇
-<a href="https://www.linkedin.com/in/t3-pat/">
+<a href="https://www.linkedin.com/in/kryptoblack/">
   <img align="left" alt="LindedIn" width="40px" src="images\linkedin-logo.png?raw=true" />
 </a>
 <a href="https://twitter.com/t3_pat">
