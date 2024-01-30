@@ -12,5 +12,6 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-    env:
-      COMMIT_MESSAGE: "actions: updated badges"
+        with:
+          COMMIT_MESSAGE: "actions: updated badges"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
